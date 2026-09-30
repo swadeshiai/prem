@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4f46e5"/><stop offset="100%" stop-color="#0ea5e9"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <rect x="40" y="40" width="720" height="420" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="400" cy="205" r="70" fill="#ffffff" fill-opacity="0.18"/>
+  <path d="M310 250l30-40h50l-25 35h45l-80 80 20-45-40-30z" fill="#ffffff" fill-opacity="0.9"/>
+  <text x="400" y="330" font-family="Poppins, Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">ETL Pipeline for Sales Analytics</text>
+  <text x="400" y="375" font-family="Poppins, Arial, sans-serif" font-size="22" fill="#e0e7ff" text-anchor="middle">Airflow • Snowflake • dbt</text>
+</svg>
